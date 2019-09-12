@@ -93,6 +93,6 @@ sys_uptime(void)
 int
 sys_haw(void)
 {
-	cprintf("Hellow World\n");
+	cprintf("Hello World\n");
 	return 0;
 }
